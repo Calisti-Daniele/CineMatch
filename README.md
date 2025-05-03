@@ -1,4 +1,3 @@
-````markdown
 # 🎬 CineMatch – Motore di Raccomandazione ML per Film nei Cinema Locali
 
 **CineMatch** è un sistema di raccomandazione basato su machine learning progettato per suggerire agli utenti i film più adatti in programmazione nei cinema vicini. Integra un modello di regressione per stimare la percentuale di match utente-film e un classificatore multilabel per consigliare i film migliori in base alle preferenze.
@@ -64,4 +63,3 @@ MIT – libero utilizzo per progetti personali o accademici. Per uso commerciale
 
 ✨ *Creato con amore per gli amanti del cinema e del machine learning.*
 
-```
